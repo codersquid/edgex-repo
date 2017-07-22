@@ -24,6 +24,7 @@
   <project path="support-logging-client" name="support-logging-client.git" />
   <project path="support-notifications" name="support-notifications.git" />  
   <project path="support-notifications-client" name="support-notifications-client.git" />
+  <project path="support-rulesengine" name="support-rulesengine.git" />
   <project path="core-metadata" name="core-metadata.git" />
   <project path="core-metadata-client" name="core-metadata-client.git" />
   <project path="core-data" name="core-data.git" />
@@ -31,5 +32,7 @@
   <project path="core-command" name="core-command.git" />
   <project path="core-command-client" name="core-command-client.git" />
   <project path="device-virtual" name="device-virtual.git" />
+  <project path="device-sdk" name="device-sdk.git" />
+  <project path="device-sdk-tools" name="device-sdk-tools.git" />
   
 </manifest>  
